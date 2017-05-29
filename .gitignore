@@ -1,3 +1,6 @@
+#bot configuration
+bot_config.txt
+
 # Logs
 logs
 *.log
